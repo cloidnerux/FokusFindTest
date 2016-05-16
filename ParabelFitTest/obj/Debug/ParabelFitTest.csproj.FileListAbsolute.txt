@@ -1,0 +1,6 @@
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\ParabelFitTest\ParabelFitTest\bin\Debug\ParabelFitTest.exe.config
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\ParabelFitTest\ParabelFitTest\bin\Debug\ParabelFitTest.exe
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\ParabelFitTest\ParabelFitTest\bin\Debug\ParabelFitTest.pdb
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\ParabelFitTest\ParabelFitTest\obj\Debug\ParabelFitTest.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\ParabelFitTest\ParabelFitTest\obj\Debug\ParabelFitTest.exe
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\ParabelFitTest\ParabelFitTest\obj\Debug\ParabelFitTest.pdb
